@@ -16,8 +16,6 @@ npm start // to start this project
 <br />
 ![title-pic](https://github.com/TechNishant204/Personal-portfolio/blob/main/ss2.jpeg)
 <br />
-![title-pic](https://github.com/TechNishant204/Personal-portfolio/blob/main/ss2.jpeg)
-<br />
 ![title-pic](https://github.com/TechNishant204/Personal-portfolio/blob/main/ss3.jpeg)
 <br />
 ![title-pic](https://github.com/TechNishant204/Personal-portfolio/blob/main/ss4.jpeg)
